@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Macarena Valcarlos</h1>
 <h3 align="center">FullStack developer, orientada a desarrollo Back-End</h3>
 
-- 📫 How to reach me **macarenavalcarlos.19.11@gmail.com**
+- 📫 Como contactarme **macarenavalcarlos.19.11@gmail.com**
 
 - ⚡ Fun fact **me encanta la cocina y soy una apacionada de la musica**
 
